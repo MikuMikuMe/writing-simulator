@@ -4,3 +4,5 @@ My philosophy class doesn't let me copy paste texts, well, then I have to do thi
 On Windows, you need to install pyautogui.
 
 `pip install pyautogui`
+
+Or just download the exe in release.
